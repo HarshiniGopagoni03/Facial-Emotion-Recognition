@@ -17,9 +17,13 @@ NumPy & Pandas (for data handling)
 📌 Installation & Setup
 Clone the Repository
 git clone https://github.com/HarshiniGopagoni03/Facial-Emotion-Recognition.git
+
 cd Facial-Emotion-Recognition
+
 Install Dependencies
+
 pip install -r requirements.txt
+
 Run the Model for Emotion Detection
 python detect_emotion.py
 
